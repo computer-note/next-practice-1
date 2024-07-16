@@ -23,7 +23,7 @@ Finalizing page optimization
 ## 빌드 결과 (재측정)
 | Route(app)                              	| size    	| First Load JS 	|
 |-----------------------------------------	|---------	|---------------	|
-| o/                                      	| 141 b   	| 92.3 kb       	|
+| o/                                      	| 141 b   	| 87.1 kb       	|
 | o/_not-found                            	| 871 b   	| 87.9 kb       	|
 | + First Load JS shared by all           	| 87 kb   	|               	|
 | ____chunks/23-b75664ace61c0abb.js       	| 31.5 kb 	|               	|
