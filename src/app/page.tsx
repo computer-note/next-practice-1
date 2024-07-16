@@ -1,11 +1,16 @@
+let counter = 1;
+
 export default async function Home() {
   const response = await fetch(`https://randomuser.me/api`);
   const { results } = await response.json();
   const user = results[0];
 
+  console.log(counter);
+
   return (
     <main>
       <h1>Static Site Generation</h1>
+      <h2>counter:{counter}</h2>
       <div className='bg-slate-400'>
         <div className='flex gap-8'>
           <div>
