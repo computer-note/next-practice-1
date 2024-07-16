@@ -31,7 +31,7 @@ Creating an optimized production build...
 ### 빌드 결과 (카운터 미적용 시)
 | Route(app)                              	| size    	| First Load JS 	|
 |-----------------------------------------	|---------	|---------------	|
-| o/                                      	| 5.25 kb   | 92.3 kb      	  |
+| o/                                      	| 141 b     | 87.1 kb      	  |
 
 
 
